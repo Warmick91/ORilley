@@ -27,7 +27,7 @@ public class BankTransactionAnalyzerSimple {
 			}
 		}
 
-		System.out.println("The total for January all transactions is " + total);
+		System.out.println("The total for all transactions is January is " + total);
 	}
 
 }
